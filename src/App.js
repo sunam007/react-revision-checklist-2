@@ -31,7 +31,7 @@ function Todos() {
 
 function Tasks(props) {
   return (
-    <div>
+    <div className="containerStyle">
       <h3>Task: {props.title}</h3>
       <h3>Status: {props.status}</h3>
     </div>

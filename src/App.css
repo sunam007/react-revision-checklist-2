@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.containerStyle {
+  border: 1px solid lightcoral;
+  border-radius: 10px;
+  background-color: lightblue;
+  margin: 20px;
+  padding: 10px;
+  color: lightsalmon;
+}
